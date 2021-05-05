@@ -59,7 +59,11 @@
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>this project was created and be maintained  by <a href="https://www.linkedin.com/in/osama-albanna-b4183219a/">Osama Al Banna</a>
+            {% if page.lang = "ar" %}
+              <p>هذا المشروع تم إنشائه وتتم صيانته من قبل by <a href="https://www.linkedin.com/in/osama-albanna-b4183219a/">أسامه البنا</a>
+            {% else %}
+              <p>this project was created and be maintained  by <a href="https://www.linkedin.com/in/osama-albanna-b4183219a/">Osama Al Banna</a>
+            {% endif %}
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
