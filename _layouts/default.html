@@ -27,7 +27,16 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>{{ page.siteTitle | default: site.title | default: site.github.repository_name }}</h1>
+            {% if page.siteTitle %}
+                <h1>{{ page.siteTitle }}</h1>
+            {% else %}
+              {% if page.lang == "ar" %}
+                <h1>{{ site.title_ar | default: site.github.repository_name }}</h1>
+              {% else %}
+                <h1>{{ site.title | default: site.github.repository_name }}</h1>
+              {% endif %}
+            {% endif %}
+          
             <h2>{{ page.siteDescription | default: site.description | default: site.github.project_tagline }}</h2>
           </span>
           <span class="left-tail"></span>
