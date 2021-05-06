@@ -36,8 +36,16 @@
                 <h1>{{ site.title | default: site.github.repository_name }}</h1>
               {% endif %}
             {% endif %}
-          
-            <h2>{{ page.siteDescription | default: site.description | default: site.github.project_tagline }}</h2>
+            
+             {% if page.siteDescription %}
+                <h1>{{ page.siteDescription }}</h1>
+            {% else %}
+              {% if page.lang == "ar" %}
+                <h1>{{ site.description_ar | default: site.github.repository_name }}</h1>
+              {% else %}
+                <h1>{{ site.description | default: site.github.repository_name }}</h1>
+              {% endif %}
+            {% endif %}
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
