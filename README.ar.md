@@ -3,8 +3,6 @@ layout: default
 lang: ar
 direction: RTL
 title: "الصفحة الرئيسية"
-siteTitle: "مدير الأقساط"
-siteDescription: "الصفحة الرسمية لمدير أقساط البنا"
 ---
 
 
