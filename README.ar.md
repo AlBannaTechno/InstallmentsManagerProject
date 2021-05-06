@@ -12,7 +12,7 @@ siteDescription: "الصفحة الرسمية لمدير أقساط البنا"
 
 ### تفاصيل
 
-* [لقطات](Screenshots.md)
+* [لقطات](Screenshots.ar.md)
 
 ### الإصدارات 
 
