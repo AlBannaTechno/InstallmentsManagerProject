@@ -1,7 +1,7 @@
 ## Welcome
 
 ### Details
-* [Screenshots](Screenshots.md)
+* [Carousel](screenshots_carousel.html)
 
 ### Releases 
 
