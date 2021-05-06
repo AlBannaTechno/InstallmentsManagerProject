@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 
 ![2021-05-05_180633](https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png)
 ![2021-05-06_103715](https://user-images.githubusercontent.com/13814190/117267978-1bfec000-ae57-11eb-9309-4eb27645a02d.png)
