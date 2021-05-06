@@ -4,7 +4,7 @@ layout: default
 
 
 
-<a href="https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png"><img src="https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png"/></a>
+<a target="_blank" href="https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png"><img src="https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png"/></a>
 ![2021-05-06_103715](https://user-images.githubusercontent.com/13814190/117267978-1bfec000-ae57-11eb-9309-4eb27645a02d.png)
 ![2021-05-06_103710](https://user-images.githubusercontent.com/13814190/117267985-1c975680-ae57-11eb-8939-7b11c7daaafe.png)
 ![2021-05-06_103701](https://user-images.githubusercontent.com/13814190/117267995-1f924700-ae57-11eb-8eee-0fdcf82c20e9.png)
