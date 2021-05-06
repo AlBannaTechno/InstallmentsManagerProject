@@ -38,12 +38,12 @@
             {% endif %}
             
              {% if page.siteDescription %}
-                <h3>{{ page.siteDescription }}</h3>
+                <h2>{{ page.siteDescription }}</h2>
             {% else %}
               {% if page.lang == "ar" %}
-                <h3>{{ site.description_ar | default: site.github.repository_name }}</h3>
+                <h2>{{ site.description_ar | default: site.github.repository_name }}</h2>
               {% else %}
-                <h3>{{ site.description | default: site.github.repository_name }}</h3>
+                <h2>{{ site.description | default: site.github.repository_name }}</h2>
               {% endif %}
             {% endif %}
           </span>
