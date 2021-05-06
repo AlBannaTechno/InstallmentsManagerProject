@@ -10,7 +10,7 @@ title: "الصفحة الرئيسية"
 
 ### تفاصيل
 
-* [لقطات](Screenshots.ar.md)
+* [المعرض](screenshots_carousel.html)
 
 ### الإصدارات 
 
