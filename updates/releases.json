@@ -1,0 +1,40 @@
+{
+    "Versions": [
+        {
+            "SemVer": "4.1.0.0",
+            "ReleaseDate": "2021/05/07",
+            "DownloadLink": "https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v4.0.1.0/InstallmentsManager-v4.0.1.0.exe",
+            "Title": "New Updates Feature",
+            "ArabicTitle": "دعم التحديث",
+            "NewFeatures": [
+                {
+                    "Title": "Support Updates",
+                    "Body": "Support Automatic Updates",
+                    "ArabicTitle": "دعم التحديث",
+                    "ArabicBody": "دعم التحديث التلقائي للنظام"
+                }
+            ],
+            "BugFixes": [
+                {
+                    "Title": "Inversed Client Image",
+                    "ArabicTitle": "صورة العميل المعكوسة"
+                }
+            ],
+            "ImportantNotes": [
+                {
+                    "Title": "All users should start with this version",
+                    "Body": "Any pervious version before this, has no suppor",
+                    "ArabicTitle": "يجب البدأ بتحميل هذه النسخة",
+                    "ArabicBody": "أي نسخة قديمة غير مدعومة"
+                }
+            ]
+        },
+        {
+            "SemVer": "4.0.1.0",
+            "ReleaseDate": "2021/05/04",
+            "DownloadLink": "https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v4.0.1.0/InstallmentsManager-v4.0.1.0.exe",
+            "Title": "First Global Version",
+            "ArabicTitle": "النسخة العامة الأولى"
+        }
+    ]
+}
