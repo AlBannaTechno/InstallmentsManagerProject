@@ -1,9 +1,8 @@
 ---
 layout: default
-lang: ar
-direction: RTL
 ---
 
+### [Carousel](screenshots_carousel.html)
 
 
 <a target="_blank" href="https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png"><img src="https://user-images.githubusercontent.com/13814190/117267971-1acd9300-ae57-11eb-8183-b226a2954287.png"/></a>
