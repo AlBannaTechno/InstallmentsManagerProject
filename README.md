@@ -1,5 +1,4 @@
 ---
-layout: default
 lang: ar
 direction: RTL
 title: "الصفحة الرئيسية"
