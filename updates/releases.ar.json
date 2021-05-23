@@ -1,6 +1,26 @@
 {
     "Versions": [
         {
+            "Name": "2021.1.0.1",
+            "ReleaseDate": "2021/05/23",
+            "DownloadLink": "https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe",
+            "Title": "نسخة 2021 الأولى",
+            "BugFixes" : [
+                {
+                    "Title": "تسجيل الدخول التلقائي لا يعمل أحيانا"
+                }
+            ],
+            "ImportantNotes":[
+                {
+                    "Title": "أيقونة البرنامج تم تغييرها"
+                },
+                {
+                    "Title": "تم إعتماد نظام التسمية السنوي",
+                    "Body": "هذا يعني أن نسخة كل سنة ستبدأ برقم تلك السنة"
+                }
+            ]
+        },
+        {
             "Name": "4.1.0.0",
             "ReleaseDate": "2021/05/07",
             "DownloadLink": "https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v4.0.1.0/InstallmentsManager-v4.0.1.0.exe",
@@ -16,7 +36,7 @@
                     "Title": "صورة العميل المعكوسة"
                 }
             ],
-            "Importan": [
+            "ImportantNotes": [
                 {
                     "Title": "يجب البدأ بتحميل هذه النسخة",
                     "Body": "أي نسخة قديمة غير مدعومة"
