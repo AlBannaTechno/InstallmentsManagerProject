@@ -20,6 +20,9 @@ title: "الصفحة الرئيسية"
 
 ### [المعرض](screenshots_carousel.html)
 
+### ملاحظات هامة
+* البرنامج يعمل على أنظمة التشغيل إبتداءا من ويندوز 7 سيرفس باك 1
+
 ### ملحقات
 * [.NetFramework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
     > لابد من تنصيبة
