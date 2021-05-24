@@ -20,6 +20,10 @@ title: "الصفحة الرئيسية"
 
 ### [المعرض](screenshots_carousel.html)
 
+### ملحقات
+* [.NetFramework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
+    > لابد من تنصيبة
+
 ### الإصدارات 
 
 * [Installments Manager v2021.0.1.0](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
