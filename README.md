@@ -46,4 +46,4 @@ title: "الصفحة الرئيسية"
 ### الإصدارات 
 
 * [Installments Manager v2021.0.1.0](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
-* [Installments Manager v2021-1 Arabic Docs](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/Installments.Manager.v2021-1.Arabic.Docs.pdf)
+* [Installments Manager v2021-1 Arabic Docs وثائق البرنامج](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/Installments.Manager.v2021-1.Arabic.Docs.pdf)
