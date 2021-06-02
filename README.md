@@ -36,6 +36,8 @@ title: "الصفحة الرئيسية"
 
 ### [المعرض](screenshots_carousel.html)
 
+### [شرح فديو](https://www.youtube.com/playlist?list=PL6ADVthEF-K_FZi6xQERJbRsjMdTYTiBu)
+
 ### ملاحظات هامة
 * البرنامج يعمل على أنظمة التشغيل إبتداءا من ويندوز 7 سيرفس باك 1
 
@@ -47,3 +49,4 @@ title: "الصفحة الرئيسية"
 
 * [Installments Manager v2021.0.1.0](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
 * [Installments Manager v2021-1 Arabic Docs وثائق البرنامج](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/Installments.Manager.v2021-1.Arabic.Docs.pdf)
+
