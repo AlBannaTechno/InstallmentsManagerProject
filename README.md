@@ -54,12 +54,11 @@ title: "الصفحة الرئيسية"
  على جهازك.Net Framework 4.8
 
 
-* [نسخة الدوت نيم فريم ورك في ملف واحد + v2021.0.1.0 مدير أقساط البنا ](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.+.NFW.4.8.exe)
+* [مدير أقساط البنا+ v2021.0.1.0  نسخة الدوت نيم فريم ورك في ملف واحد](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.+.NFW.4.8.exe)
 
 
-* [يجب تنصيب الدوت نن فريم ورك أولا v2021.0.1.0 مدير أقساط البنا](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
+* [v2021.0.1.0 مدير أقساط البنا يجب تنصيب الدوت نن فريم ورك أولا](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
   * [.NetFramework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
-      > لابد من تنصيبة
 
 ### الوثائق
 * [Installments Manager v2021-1 Arabic Docs وثائق البرنامج](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/Installments.Manager.v2021-1.Arabic.Docs.pdf)
