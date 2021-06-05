@@ -42,11 +42,25 @@ title: "الصفحة الرئيسية"
 * البرنامج يعمل على أنظمة التشغيل إبتداءا من ويندوز 7 سيرفس باك 1
 
 ### ملحقات
-* [.NetFramework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
-    > لابد من تنصيبة
 
-### الإصدارات 
 
-* [Installments Manager v2021.0.1.0](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
+### البرنامج
+
+ الأول هو البرنامج + النت فريم ورك في ملف واحد: وستتم عملية التنصيب تلقائيا
+يفضل إختيار هذا لضمان عمل البرنامج في أي مكان
+
+قم بتحميل أحد الإختيارين وليس كليهما
+الثاني هو البرنامج منفصل بدون الدوت نت فريم ورك: في حالة كنت تملك 
+ على جهازك.Net Framework 4.8
+
+
+* [نسخة الدوت نيم فريم ورك في ملف واحد + v2021.0.1.0 مدير أقساط البنا ](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.+.NFW.4.8.exe)
+
+
+* [يجب تنصيب الدوت نن فريم ورك أولا v2021.0.1.0 مدير أقساط البنا](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
+  * [.NetFramework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
+      > لابد من تنصيبة
+
+### الوثائق
 * [Installments Manager v2021-1 Arabic Docs وثائق البرنامج](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/Installments.Manager.v2021-1.Arabic.Docs.pdf)
 
