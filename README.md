@@ -46,16 +46,17 @@ title: "الصفحة الرئيسية"
 
 ### البرنامج
 
- الأول هو البرنامج + النت فريم ورك في ملف واحد: وستتم عملية التنصيب تلقائيا
-يفضل إختيار هذا لضمان عمل البرنامج في أي مكان
 
 قم بتحميل أحد الإختيارين وليس كليهما
-الثاني هو البرنامج منفصل بدون الدوت نت فريم ورك: في حالة كنت تملك 
- على جهازك.Net Framework 4.8
 
 
+البرنامج + النت فريم ورك في ملف واحد: وستتم عملية التنصيب تلقائيا
+يفضل إختيار هذا لضمان عمل البرنامج في أي مكان
 * [مدير أقساط البنا+ v2021.0.1.0  نسخة الدوت نيم فريم ورك في ملف واحد](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.+.NFW.4.8.exe)
 
+
+البرنامج منفصل بدون الدوت نت فريم ورك: في حالة كنت تملك 
+ على جهازك.Net Framework 4.8
 
 * [v2021.0.1.0 مدير أقساط البنا يجب تنصيب الدوت نن فريم ورك أولا](https://github.com/AlBannaTechno/InstallmentsManagerProject/releases/download/v2021.0.1.0/InstallmentsManager-v2021.0.1.0.exe)
   * [.NetFramework 4.8](https://go.microsoft.com/fwlink/?linkid=2088631)
